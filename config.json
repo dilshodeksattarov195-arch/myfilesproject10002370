@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceupdate",
+        "uuid": 4315770,
+        "checksum": "wq7rnx"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
